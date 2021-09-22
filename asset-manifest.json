@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/welcomedev-react-starter/static/js/main.a189701d.chunk.js",
+    "main.js.map": "/welcomedev-react-starter/static/js/main.a189701d.chunk.js.map",
+    "runtime-main.js": "/welcomedev-react-starter/static/js/runtime-main.e3084889.js",
+    "runtime-main.js.map": "/welcomedev-react-starter/static/js/runtime-main.e3084889.js.map",
+    "static/js/2.bcbd5958.chunk.js": "/welcomedev-react-starter/static/js/2.bcbd5958.chunk.js",
+    "static/js/2.bcbd5958.chunk.js.map": "/welcomedev-react-starter/static/js/2.bcbd5958.chunk.js.map",
+    "static/js/3.fcdc8f36.chunk.js": "/welcomedev-react-starter/static/js/3.fcdc8f36.chunk.js",
+    "static/js/3.fcdc8f36.chunk.js.map": "/welcomedev-react-starter/static/js/3.fcdc8f36.chunk.js.map",
+    "index.html": "/welcomedev-react-starter/index.html",
+    "static/js/2.bcbd5958.chunk.js.LICENSE.txt": "/welcomedev-react-starter/static/js/2.bcbd5958.chunk.js.LICENSE.txt",
+    "static/media/syd-sujuaan.cc1c0846.jpg": "/welcomedev-react-starter/static/media/syd-sujuaan.cc1c0846.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3084889.js",
+    "static/js/2.bcbd5958.chunk.js",
+    "static/js/main.a189701d.chunk.js"
+  ]
+}
